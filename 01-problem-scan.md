@@ -82,38 +82,117 @@ AI Learning Assistant có thể:
 Agent / AI Tutor
 
 ---
-
 # Draft Current Workflow
 
 CURRENT STATE — Khoảng 120 phút
 
-[1 Tham gia buổi học: 120']
-→ [2 Gặp thuật ngữ mới]
-→ [3 Tra cứu Google/YouTube/ChatGPT: 45']
-→ [4 Đọc nhiều tài liệu: 30']
-→ [5 Học lại nội dung: 45']
-→ [6 Làm bài tập]
-→ [7 Hỏi trợ giảng nếu cần]
++----------------------+
+| Tham gia buổi học    |
++----------------------+
+|
+v
++----------------------+
+| Gặp thuật ngữ mới    |
++----------------------+
+|
+v
++----------------------+
+| Tra Google/YouTube   |
+| hoặc ChatGPT         |
+|      ~45 phút        |
++----------------------+
+|
+v
++----------------------+
+| Đọc nhiều tài liệu   |
+|      ~30 phút        |
++----------------------+
+|
+v
++----------------------+
+| Học lại nội dung     |
+|      ~45 phút        |
++----------------------+
+|
+v
++----------------------+
+| Làm bài tập          |
++----------------------+
+|
+v
++----------------------+
+| Hỏi trợ giảng        |
++----------------------+
 
-Bottleneck:
-[3 Tra cứu] và [5 Học lại]
+## BOTTLENECK
 
----
+[Tra Google/YouTube/ChatGPT]
++
+[Học lại nội dung]
+
+≈ 90 phút/ngày
 
 # Draft Future Workflow
 
 FUTURE STATE — Khoảng 40 phút
 
-[1 Tham gia buổi học]
-→ [2 Hỏi AI Tutor]
-→ [3 AI giải thích thuật ngữ: 5']
-→ [4 AI tóm tắt bài học: 5']
-→ [5 AI gợi ý nội dung cần ôn tập: 5']
-→ [6 Học viên review và luyện tập: 20']
-→ [7 Hoàn thành bài tập]
++----------------------+
+| Tham gia buổi học    |
++----------------------+
+|
+v
++----------------------+
+| Hỏi AI Learning      |
+| Tutor                |
++----------------------+
+|
+v
++----------------------+
+| AI giải thích        |
+| thuật ngữ            |
+|      ~5 phút         |
++----------------------+
+|
+v
++----------------------+
+| AI tóm tắt bài học   |
+|      ~5 phút         |
++----------------------+
+|
+v
++----------------------+
+| AI gợi ý phần cần ôn |
+|      ~5 phút         |
++----------------------+
+|
+v
++----------------------+
+| Học viên thực hành   |
+|      ~20 phút        |
++----------------------+
+|
+v
++----------------------+
+| Hoàn thành bài tập   |
++----------------------+
 
-Human Boundary:
-Học viên vẫn tự học, tự thực hành và tự đánh giá mức độ hiểu bài.
+## HUMAN BOUNDARY
 
-Fallback:
-Nếu AI giải thích chưa chính xác hoặc chưa đủ sâu, học viên sẽ tham khảo tài liệu chính thức hoặc hỏi trợ giảng.
+AI thực hiện:
+
+* Giải thích thuật ngữ
+* Tóm tắt bài học
+* Gợi ý nội dung cần ôn
+
+Học viên thực hiện:
+
+* Tự học
+* Tự thực hành
+* Tự đánh giá mức độ hiểu bài
+* Hoàn thành bài tập
+
+## FALLBACK
+
+Nếu AI giải thích chưa chính xác hoặc chưa đủ sâu:
+→ Xem tài liệu chính thức
+→ Hỏi trợ giảng
