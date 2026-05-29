@@ -84,71 +84,61 @@ Agent / AI Tutor
 ---
 
 # Draft Current Workflow
-┌──────────────────────┐
-│ 1. Tham gia buổi học │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ 2. Gặp thuật ngữ mới │
-└──────────┬───────────┘
-           ↓
-┌────────────────────────────┐
-│ 3. Tra Google/YouTube/AI   │
-│          ~45 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌────────────────────────────┐
-│ 4. Đọc nhiều tài liệu      │
-│          ~30 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌────────────────────────────┐
-│ 5. Học lại nội dung        │
-│          ~45 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌──────────────────────┐
-│ 6. Làm bài tập       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ 7. Hỏi trợ giảng     │
-└──────────────────────┘
+## CURRENT STATE — Khoảng 120 phút
+
+1. Tham gia buổi học AI20K
+   ↓
+2. Gặp thuật ngữ mới
+   ↓
+3. Tra cứu Google / YouTube / ChatGPT (~45 phút)
+   ↓
+4. Đọc nhiều tài liệu khác nhau (~30 phút)
+   ↓
+5. Học lại nội dung sau buổi học (~45 phút)
+   ↓
+6. Làm bài tập
+   ↓
+7. Hỏi trợ giảng nếu cần
+
+### Bottleneck
+
+- Bước 3: Tra cứu kiến thức
+- Bước 5: Học lại nội dung
+
+Tổng thời gian bổ sung khoảng 90 phút/ngày.
 # Draft Future Workflow
 
 FUTURE STATE — Khoảng 40 phút
 
-┌──────────────────────┐
-│ 1. Tham gia buổi học │
-└──────────┬───────────┘
-           ↓
-┌────────────────────────────┐
-│ 2. Hỏi AI Learning Tutor   │
-└──────────┬─────────────────┘
-           ↓
-┌────────────────────────────┐
-│ 3. AI giải thích thuật ngữ │
-│           ~5 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌────────────────────────────┐
-│ 4. AI tóm tắt bài học      │
-│           ~5 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌────────────────────────────┐
-│ 5. AI gợi ý phần cần ôn    │
-│           ~5 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌────────────────────────────┐
-│ 6. Học viên thực hành      │
-│          ~20 phút          │
-└──────────┬─────────────────┘
-           ↓
-┌──────────────────────┐
-│ 7. Hoàn thành bài tập│
-└──────────────────────┘
+## FUTURE STATE — Khoảng 40 phút
+
+1. Tham gia buổi học AI20K
+   ↓
+2. Hỏi AI Learning Tutor
+   ↓
+3. AI giải thích thuật ngữ (~5 phút)
+   ↓
+4. AI tóm tắt bài học (~5 phút)
+   ↓
+5. AI gợi ý phần cần ôn tập (~5 phút)
+   ↓
+6. Học viên thực hành (~20 phút)
+   ↓
+7. Hoàn thành bài tập
+
+### Human Boundary
+
+Học viên vẫn:
+- Tự học
+- Tự thực hành
+- Tự đánh giá mức độ hiểu bài
+- Tự hoàn thành bài tập
+
+### Fallback
+
+Nếu AI giải thích chưa chính xác hoặc chưa đủ sâu:
+- Tham khảo tài liệu chính thức
+- Hỏi trợ giảng
 Human Boundary:
 Học viên vẫn tự học, tự thực hành và tự đánh giá mức độ hiểu bài.
 
