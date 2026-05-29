@@ -89,9 +89,13 @@ Qua bài lab này em học được rằng:
 
 ```text
 .
-├── 01-individual-problem-scan.md
-├── 02-group-problem-statement.md
-├── 03-individual-reflection.md
+├── 01-individual-problem-scan/
+│   ├── 01-individual-problem-scan.md
+│   └── 01-individual-problem-scan-workflow-card-1.png
+├── 02-group-problem-statement/
+│   └── 02-group-problem-statement.md
+├── 03-individual-reflection/
+│   └── 03-individual-reflection.md
 └── README.md
 ```
 
