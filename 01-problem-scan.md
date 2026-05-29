@@ -82,67 +82,86 @@ AI Learning Assistant có thể:
 Agent / AI Tutor
 
 ---
-
 # Draft Current Workflow
-## CURRENT STATE — Khoảng 120 phút
 
-1. Tham gia buổi học AI20K
-   ↓
-2. Gặp thuật ngữ mới
-   ↓
-3. Tra cứu Google / YouTube / ChatGPT (~45 phút)
-   ↓
-4. Đọc nhiều tài liệu khác nhau (~30 phút)
-   ↓
-5. Học lại nội dung sau buổi học (~45 phút)
-   ↓
-6. Làm bài tập
-   ↓
-7. Hỏi trợ giảng nếu cần
+CURRENT STATE (~120 phút)
 
-### Bottleneck
+[Tham gia buổi học]
+|
+v
+[Gặp thuật ngữ mới]
+|
+v
+[Tra Google / YouTube / ChatGPT]
+45'
+|
+v
+[Đọc nhiều tài liệu]
+30'
+|
+v
+[Học lại nội dung]
+45'
+|
+v
+[Làm bài tập]
+|
+v
+[Hỏi trợ giảng]
 
-- Bước 3: Tra cứu kiến thức
-- Bước 5: Học lại nội dung
+## BOTTLENECK
 
-Tổng thời gian bổ sung khoảng 90 phút/ngày.
+[Tra Google / YouTube / ChatGPT]
++
+[Học lại nội dung]
+
+≈ 90 phút/ngày
+
 # Draft Future Workflow
 
-FUTURE STATE — Khoảng 40 phút
+FUTURE STATE (~40 phút)
 
-## FUTURE STATE — Khoảng 40 phút
+[Tham gia buổi học]
+|
+v
+[Hỏi AI Learning Tutor]
+|
+v
+[AI giải thích thuật ngữ]
+5'
+|
+v
+[AI tóm tắt bài học]
+5'
+|
+v
+[AI gợi ý phần cần ôn]
+5'
+|
+v
+[Học viên thực hành]
+20'
+|
+v
+[Hoàn thành bài tập]
 
-1. Tham gia buổi học AI20K
-   ↓
-2. Hỏi AI Learning Tutor
-   ↓
-3. AI giải thích thuật ngữ (~5 phút)
-   ↓
-4. AI tóm tắt bài học (~5 phút)
-   ↓
-5. AI gợi ý phần cần ôn tập (~5 phút)
-   ↓
-6. Học viên thực hành (~20 phút)
-   ↓
-7. Hoàn thành bài tập
+## HUMAN BOUNDARY
 
-### Human Boundary
+AI:
 
-Học viên vẫn:
-- Tự học
-- Tự thực hành
-- Tự đánh giá mức độ hiểu bài
-- Tự hoàn thành bài tập
+* Giải thích thuật ngữ
+* Tóm tắt bài học
+* Gợi ý nội dung cần ôn
 
-### Fallback
+Học viên:
 
-Nếu AI giải thích chưa chính xác hoặc chưa đủ sâu:
-- Tham khảo tài liệu chính thức
-- Hỏi trợ giảng
-Human Boundary:
-Học viên vẫn tự học, tự thực hành và tự đánh giá mức độ hiểu bài.
+* Tự học
+* Tự thực hành
+* Tự đánh giá mức độ hiểu bài
+* Tự hoàn thành bài tập
 
-Fallback:
-Nếu AI giải thích chưa chính xác hoặc chưa đủ sâu, học viên sẽ tham khảo tài liệu chính thức hoặc hỏi trợ giảng.
+## FALLBACK
 
-
+Nếu AI trả lời chưa chính xác:
+→ Xem tài liệu chính thức
+→ Hỏi trợ giảng
