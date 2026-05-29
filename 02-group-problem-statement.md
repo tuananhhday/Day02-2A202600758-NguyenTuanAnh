@@ -41,12 +41,12 @@ Phân bổ candidate: mỗi thành viên đề xuất **3 đề tài**.
 | 1 | Cung | Tổng hợp tài liệu ôn thi | Sinh viên trước kỳ thi | Tài liệu nằm rải rác ở slide, note, Discord/Zalo | Utility problem; dễ thành search/summarization |
 | 2 | Cung | Tìm lại thông tin Discord/Zalo | Sinh viên trong lớp/CLB | Tin nhắn trôi, keyword nhớ không chính xác | Retrieval rõ nhưng không thuộc Empathy |
 | 3 | Cung | Theo dõi deadline môn học | Sinh viên nhiều môn | Deadline phân tán ở LMS, Discord, calendar | Có thể giải bằng reminder/calendar |
-| 4 | Anh | Tìm quán ăn phù hợp ngân sách | Sinh viên quanh trường | Budget, khẩu vị, khoảng cách thay đổi theo ngày | Recommendation problem, impact học tập thấp |
-| 5 | Anh | Tìm tuyến đường tối ưu đến trường | Sinh viên đi học bằng xe/bus | Delay/traffic, chuyển tuyến | Data phụ thuộc bản đồ, không phải problem lớp |
-| 6 | Anh | Tìm phòng trọ gần trường | Sinh viên cần thuê nhà | Thông tin phòng không minh bạch, cập nhật nhanh | Rộng, cần dữ liệu thị trường thật |
-| 7 | Kiên | Kiến thức AI quá nhiều và tốc độ học quá nhanh | Người mới học AI/AI20K | Overload, không biết ưu tiên học gì | Pain thật nhưng scope rất rộng |
-| 8 | Kiên | Khó cân bằng giữa việc học ở trường đại học và AI20K | Sinh viên học song song | Lịch học, bài tập và tự học cạnh tranh thời gian | Gần productivity/coaching dài hạn |
-| 9 | Kiên | Lớp học đông, trợ giảng không đủ hỗ trợ | Học viên và TA | Câu hỏi lặp lại, TA quá tải | Problem hệ thống, actor chính có thể là TA |
+| 4 | Kiên | Tìm quán ăn phù hợp ngân sách | Sinh viên quanh trường | Budget, khẩu vị, khoảng cách thay đổi theo ngày | Recommendation problem, impact học tập thấp |
+| 5 | Kiên | Tìm tuyến đường tối ưu đến trường | Sinh viên đi học bằng xe/bus | Delay/traffic, chuyển tuyến | Data phụ thuộc bản đồ, không phải problem lớp |
+| 6 | Kiên | Tìm phòng trọ gần trường | Sinh viên cần thuê nhà | Thông tin phòng không minh bạch, cập nhật nhanh | Rộng, cần dữ liệu thị trường thật |
+| 7 | Anh | Kiến thức AI quá nhiều và tốc độ học quá nhanh | Người mới học AI/AI20K | Overload, không biết ưu tiên học gì | Pain thật nhưng scope rất rộng |
+| 8 | Anh | Khó cân bằng giữa việc học ở trường đại học và AI20K | Sinh viên học song song | Lịch học, bài tập và tự học cạnh tranh thời gian | Gần productivity/coaching dài hạn |
+| 9 | Anh | Lớp học đông, trợ giảng không đủ hỗ trợ | Học viên và TA | Câu hỏi lặp lại, TA quá tải | Problem hệ thống, actor chính có thể là TA |
 | 10 | Dũng | Copy-paste Excel vào CMS | Người nhập liệu/admin | Format bảng bị vỡ, thao tác lặp lại | Operational automation |
 | 11 | Dũng | Sửa định dạng/dấu cách Excel | Người làm file dữ liệu | Dữ liệu không sạch, spacing lỗi | Rule/process fix có thể là đủ |
 | 12 | Dũng | Gắn Tags cho thanh Search | Người quản trị nội dung | Thiếu taxonomy/tag chuẩn | Information architecture, không thuộc Empathy |
