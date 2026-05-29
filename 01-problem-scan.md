@@ -19,7 +19,7 @@
 | Problem                                              | User                       | Evidence                                                                     | Why It Matters                                        |
 | ---------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Kiến thức AI quá nhiều và tốc độ học quá nhanh       | Học viên AI20K mới bắt đầu | Thường xuyên phải học lại sau giờ học, mất nhiều thời gian tra cứu kiến thức | Khó theo kịp chương trình, ảnh hưởng kết quả học tập  |
-| Khó cân bằng giữa việc học ở trường đại học và AI20K | Sinh viên tham gia AI20K   | Có nhiều bài tập và deadline cùng lúc, thời gian học bị quá tải              | Gây áp lực và làm giảm hiệu quả học tập               |
+| Khó cân bằng giữa việc học ở trường đại học và AI20K | Học viênAI20K   | Có nhiều bài tập và deadline cùng lúc, thời gian học bị quá tải              | Gây áp lực và làm giảm hiệu quả học tập               |
 | Lớp học đông, trợ giảng không đủ hỗ trợ              | Học viên AI20K             | Phải chờ lâu khi gặp lỗi hoặc có thắc mắc                                    | Làm gián đoạn quá trình học tập và hoàn thành bài tập |
 
 
