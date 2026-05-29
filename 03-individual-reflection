@@ -1,37 +1,33 @@
 # 03 — Individual Reflection
 
-## Họ tên
-
-Nguyễn Tuấn Anh
-
 ## Em đã tham gia vào phần nào?
 
-| Hoạt động                  | Em đã làm gì?                                                                                                                        | Kết quả / ảnh hưởng                                               |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| Scan cá nhân               | Đề xuất các vấn đề: kiến thức AI quá nhiều và tốc độ học quá nhanh, khó cân bằng giữa đại học và AI20K, lớp học đông thiếu trợ giảng | Giúp nhóm có thêm góc nhìn về khó khăn thực tế của học viên AI20K |
-| Pitch Problem Card         | Trình bày actor, workflow, bottleneck và impact của 3 candidate cá nhân                                                              | Tạo cơ sở để nhóm so sánh với các đề tài khác                     |
-| Challenge bài của bạn khác | Đặt câu hỏi về actor, workflow và boundary của các candidate                                                                         | Giúp nhóm nhìn rõ điểm mạnh và điểm yếu của từng đề tài           |
-| Gom trùng / Cluster        | Tham gia phân loại candidate theo các nhóm Empathy, Productivity, Utility và Automation                                              | Giúp nhóm dễ hội tụ hơn                                           |
-| Chọn candidate problem     | Tham gia shortlist và chấm điểm các candidate                                                                                        | Hỗ trợ nhóm chọn Cognitive Reframing khi nhận feedback tiêu cực   |
-| Validation / Research      | Chia sẻ trải nghiệm cá nhân khi nhận feedback và tham gia xem xét kết quả validation                                                 | Bổ sung thêm evidence cho problem được chọn                       |
-| Workflow nhóm              | Góp ý về current workflow và future workflow                                                                                         | Làm rõ vị trí AI can thiệp trong quy trình                        |
-| Problem Statement          | Tham gia chỉnh sửa actor, bottleneck và success metric                                                                               | Problem Statement rõ ràng hơn                                     |
-| Rule / Workflow / Agent    | Thảo luận ưu nhược điểm của từng mức                                                                                                 | Nhóm thống nhất chọn Workflow                                     |
-| Decision                   | Đồng ý với quyết định Go của nhóm                                                                                                    | Hoàn thiện artifact cuối cùng                                     |
+| Hoạt động | Em đã làm gì? | Kết quả / ảnh hưởng |
+|-----------|---------------|---------------------|
+| Scan cá nhân | Đề xuất các vấn đề: kiến thức AI quá nhiều và tốc độ học quá nhanh, khó cân bằng giữa đại học và AI20K, lớp học đông thiếu trợ giảng | Giúp nhóm có thêm góc nhìn về khó khăn thực tế của học viên AI20K |
+| Pitch Problem Card | Trình bày actor, workflow, bottleneck và impact của 3 candidate cá nhân | Tạo cơ sở để nhóm so sánh với các đề tài khác |
+| Challenge bài của bạn khác | Đặt câu hỏi về actor, workflow và boundary của các candidate | Giúp nhóm nhìn rõ điểm mạnh và điểm yếu của từng đề tài |
+| Gom trùng / Cluster | Tham gia phân loại candidate theo các nhóm Empathy, Productivity, Utility và Automation | Giúp nhóm dễ hội tụ hơn |
+| Chọn candidate problem | Tham gia shortlist và chấm điểm các candidate | Hỗ trợ nhóm chọn Cognitive Reframing khi nhận feedback tiêu cực |
+| Validation / Research | Chia sẻ trải nghiệm cá nhân khi nhận feedback và tham gia xem xét kết quả validation | Bổ sung thêm evidence cho problem được chọn |
+| Workflow nhóm | Góp ý về current workflow và future workflow | Làm rõ vị trí AI can thiệp trong quy trình |
+| Problem Statement | Tham gia chỉnh sửa actor, bottleneck và success metric | Problem Statement rõ ràng hơn |
+| Rule / Workflow / Agent | Thảo luận ưu nhược điểm của từng mức | Nhóm thống nhất chọn Workflow |
+| Decision | Đồng ý với quyết định Go của nhóm | Hoàn thiện artifact cuối cùng |
 
 ---
 
 # Bảng dùng AI trong Reflection
 
-| Phase                   | Em dùng AI để làm gì?                        | AI hữu ích ở đâu?                | AI sai/hời hợt ở đâu?                    | Em sửa gì bằng nhận định của mình?           |
-| ----------------------- | -------------------------------------------- | -------------------------------- | ---------------------------------------- | -------------------------------------------- |
-| Scan                    | Brainstorm các pain point của học viên AI20K | Gợi ý nhiều góc nhìn khác nhau   | Một số vấn đề quá rộng hoặc khó đo       | Chọn các pain point em từng quan sát thực tế |
-| Problem Card            | Hỗ trợ mô tả actor và workflow               | Làm rõ cấu trúc problem          | Một số bottleneck chưa thực sự chính xác | Điều chỉnh theo trải nghiệm thực tế          |
-| Workflow                | Hỗ trợ vẽ current và future workflow         | Giúp xác định bottleneck         | Có xu hướng tự động hóa quá nhiều bước   | Giữ lại các bước cần con người quyết định    |
-| Research                | Gợi ý nguồn tham khảo                        | Tiết kiệm thời gian tìm kiếm     | Có nguồn không sát với domain của nhóm   | Chỉ giữ lại các nguồn liên quan trực tiếp    |
-| Problem Statement       | Hỗ trợ diễn đạt rõ hơn                       | Giúp cấu trúc statement tốt hơn  | Một số câu quá dài                       | Rút gọn và tập trung vào pain point          |
-| Rule / Workflow / Agent | So sánh các phương án                        | Làm rõ sự khác nhau giữa các mức | Có lúc nghiêng về Agent                  | Chọn Workflow vì phù hợp hơn                 |
-| Decision                | Tổng hợp lý do Go / No-Go                    | Hệ thống hóa lập luận            | Một số lập luận còn chung chung          | Bổ sung bằng evidence từ validation          |
+| Phase | Em dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Em sửa gì bằng nhận định của mình? |
+|---------|----------------------|-------------------|-----------------------|------------------------------------|
+| Scan | Brainstorm các pain point của học viên AI20K | Gợi ý nhiều góc nhìn khác nhau | Một số vấn đề quá rộng hoặc khó đo | Chọn các pain point em từng quan sát thực tế |
+| Problem Card | Hỗ trợ mô tả actor và workflow | Làm rõ cấu trúc problem | Một số bottleneck chưa thực sự chính xác | Điều chỉnh theo trải nghiệm thực tế |
+| Workflow | Hỗ trợ vẽ current và future workflow | Giúp xác định bottleneck | Có xu hướng tự động hóa quá nhiều bước | Giữ lại các bước cần con người quyết định |
+| Research | Gợi ý nguồn tham khảo | Tiết kiệm thời gian tìm kiếm | Có nguồn không sát với domain của nhóm | Chỉ giữ lại các nguồn liên quan trực tiếp |
+| Problem Statement | Hỗ trợ diễn đạt rõ hơn | Giúp cấu trúc statement tốt hơn | Một số câu quá dài | Rút gọn và tập trung vào pain point |
+| Rule / Workflow / Agent | So sánh các phương án | Làm rõ sự khác nhau giữa các mức | Có lúc nghiêng về Agent | Chọn Workflow vì phù hợp hơn |
+| Decision | Tổng hợp lý do Go / No-Go | Hệ thống hóa lập luận | Một số lập luận còn chung chung | Bổ sung bằng evidence từ validation |
 
 ---
 
@@ -74,3 +70,15 @@ Bài học lớn nhất em rút ra là:
 > AI chỉ thực sự có giá trị khi nó được đặt đúng vị trí trong workflow của người dùng. Nếu chưa hiểu rõ workflow và bottleneck, việc thêm AI vào rất dễ trở thành solution-first.
 
 ---
+
+# Tự kiểm cuối bài
+
+- [x] Cá nhân có 5+ problems và top 3 Problem Cards.
+- [x] Em đã pitch rõ và challenge nhóm đúng trọng tâm.
+- [x] Nhóm có nhật ký hội tụ từ candidates về 1 bài.
+- [x] Nhóm có workflow trước/sau.
+- [x] Nhóm có Problem Statement với metric và boundary rõ.
+- [x] Nhóm có so sánh No AI / Rule / Workflow / Agent.
+- [x] Nhóm có Go / Not Yet / No-Go và lý do rõ.
+- [x] Reflection cá nhân có nói rõ vai trò trong nhóm, cách dùng AI, điều học được và nếu làm lại sẽ đổi gì.
+- [x] Em tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI.
