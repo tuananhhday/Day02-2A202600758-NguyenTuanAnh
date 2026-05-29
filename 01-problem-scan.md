@@ -1,4 +1,4 @@
-1 — Individual Problem Scan
+
 # Individual Problem Scan
 
 | #  | Lăng kính          | Problem quan sát được                                             | Ai đang đau?               | Dấu hiệu thật                                                         |
@@ -21,5 +21,101 @@
 | Kiến thức AI quá nhiều và tốc độ học quá nhanh       | Học viên AI20K mới bắt đầu | Thường xuyên phải học lại sau giờ học, mất nhiều thời gian tra cứu kiến thức | Khó theo kịp chương trình, ảnh hưởng kết quả học tập  |
 | Khó cân bằng giữa việc học ở trường đại học và AI20K | Học viênAI20K   | Có nhiều bài tập và deadline cùng lúc, thời gian học bị quá tải              | Gây áp lực và làm giảm hiệu quả học tập               |
 | Lớp học đông, trợ giảng không đủ hỗ trợ              | Học viên AI20K             | Phải chờ lâu khi gặp lỗi hoặc có thắc mắc                                    | Làm gián đoạn quá trình học tập và hoàn thành bài tập |
+
+
+# Problem Card #1 — Quá tải kiến thức AI
+
+## Problem (1 câu)
+
+Học viên AI20K mất nhiều thời gian để theo kịp bài học vì lượng kiến thức AI mới xuất hiện quá nhanh, trong khi phải tự tra cứu và học lại sau mỗi buổi học.
+
+## Actor
+
+Học viên AI20K mới bắt đầu học AI và lập trình.
+
+## Thời điểm / bối cảnh
+
+Sau mỗi buổi học AI20K hoặc khi làm bài tập thực hành.
+
+## Current Workflow
+
+1. Tham gia buổi học AI20K
+2. Gặp nhiều thuật ngữ và khái niệm mới
+3. Tự tìm kiếm trên Google, YouTube hoặc ChatGPT
+4. Đọc nhiều nguồn tài liệu khác nhau
+5. Học lại nội dung sau buổi học
+6. Làm bài tập thực hành
+7. Hỏi trợ giảng hoặc bạn bè nếu vẫn chưa hiểu
+
+## Bottleneck
+
+Bước 3 và bước 5 — tự tra cứu và học lại kiến thức mất nhiều thời gian, đặc biệt khi học viên chưa có nền tảng AI.
+
+## Impact
+
+Mỗi ngày học viên có thể mất thêm 1–2 giờ để tra cứu và học lại. Khi không theo kịp kiến thức nền, việc hoàn thành bài tập trở nên khó khăn hơn và dễ tạo cảm giác quá tải.
+
+## Success Metric
+
+* Giảm thời gian tự tra cứu từ 1–2 giờ xuống dưới 30 phút mỗi ngày.
+* Giảm số lần phải hỏi lại trợ giảng về các khái niệm cơ bản.
+* Tăng tỷ lệ hoàn thành bài tập đúng hạn.
+
+## Non-AI Alternative
+
+* Cung cấp tài liệu tổng hợp kiến thức.
+* Xây dựng FAQ cho các câu hỏi thường gặp.
+* Tổ chức thêm giờ hỗ trợ học tập.
+
+Các giải pháp này giúp giảm một phần khó khăn nhưng chưa cá nhân hóa theo từng học viên.
+
+## AI Hypothesis
+
+AI Learning Assistant có thể:
+
+* Giải thích thuật ngữ theo ngữ cảnh bài học.
+* Tóm tắt kiến thức sau mỗi buổi học.
+* Gợi ý nội dung cần ôn tập dựa trên điểm yếu của học viên.
+
+## Quick Gut
+
+Agent / AI Tutor
+
+---
+
+# Draft Current Workflow
+
+CURRENT STATE — Khoảng 120 phút
+
+[1 Tham gia buổi học: 120']
+→ [2 Gặp thuật ngữ mới]
+→ [3 Tra cứu Google/YouTube/ChatGPT: 45']
+→ [4 Đọc nhiều tài liệu: 30']
+→ [5 Học lại nội dung: 45']
+→ [6 Làm bài tập]
+→ [7 Hỏi trợ giảng nếu cần]
+
+Bottleneck:
+[3 Tra cứu] và [5 Học lại]
+
+---
+
+# Draft Future Workflow
+
+FUTURE STATE — Khoảng 40 phút
+
+[1 Tham gia buổi học]
+→ [2 Hỏi AI Tutor]
+→ [3 AI giải thích thuật ngữ: 5']
+→ [4 AI tóm tắt bài học: 5']
+→ [5 AI gợi ý nội dung cần ôn tập: 5']
+→ [6 Học viên review và luyện tập: 20']
+→ [7 Hoàn thành bài tập]
+
+Human Boundary:
+Học viên vẫn tự học, tự thực hành và tự đánh giá mức độ hiểu bài.
+
+Fallback:
+Nếu AI giải thích chưa chính xác hoặc chưa đủ sâu, học viên sẽ tham khảo tài liệu chính thức hoặc hỏi trợ giảng.
 
 
